@@ -1,3 +1,3 @@
 <?php
 
-echo "This is master";
+echo "This is second";
